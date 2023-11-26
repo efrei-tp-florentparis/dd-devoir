@@ -1,0 +1,11 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+@media only screen and (min-width: 1260px) {
+  .footer {
+    display: none;
+  }
+}

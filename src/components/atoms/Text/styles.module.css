@@ -1,0 +1,69 @@
+/* Global style component */
+
+.text {
+  font-family: sans-serif;
+}
+
+/* Size */
+
+.text-sm {
+  font-size: var(--text-sm);
+  line-height: 26px;
+}
+
+.text-md {
+  font-size: var(--text-md);
+  line-height: 34px;
+}
+
+.text-lg {
+  font-size: var(--text-lg);
+}
+
+.text-xl {
+  font-size: var(--text-xl);
+}
+
+.text-2xl {
+  font-size: var(--text-2xl);
+}
+
+.text-3xl {
+  font-size: var(--text-3xl);
+}
+
+/* Weight */
+
+.font-regular {
+  font-weight: var(--font-regular);
+}
+
+.font-semibold {
+  font-weight: var(--font-semibold);
+}
+
+.font-bold {
+  font-weight: var(--font-bold);
+}
+
+/* Color */
+
+.color-green {
+  color: var(--green);
+}
+
+.color-dark-green {
+  color: var(--dark-green);
+}
+
+.color-brown {
+  color: var(--brown);
+}
+
+.color-dark-brown {
+  color: var(--dark-brown);
+}
+
+.color-white {
+  color: var(--white);
+}

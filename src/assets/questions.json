@@ -1,0 +1,39 @@
+[
+  {
+    "question": "Listez les critères de sobriété numérique non négociables pour l'acquisition d'une solution SaaS (sous forme de user stories fictives).",
+    "cta_text": "voir les user stories",
+    "answer": [
+      "En tant qu'utilisateur, je veux que le portail de statistiques SaaS utilise des technologies optimisées pour réduire la consommation de bande passante et améliorer la vitesse de chargement des pages.",
+      "En tant qu'administrateur système, je veux que la solution SaaS utilise des serveurs éco-énergétiques et soit hébergée dans un centre de données certifié conforme aux normes environnementales en vigueur.",
+      "En tant que responsable de la sécurité, je veux que la solution SaaS dispose de mécanismes de sécurité robustes pour minimiser les attaques DDoS (Déni de Service Distribué) et les autres menaces potentielles, sans compromettre les performances du système.",
+      "En tant que développeur, je veux que le code de la solution SaaS soit optimisé et respecte les meilleures pratiques de programmation pour réduire la consommation de ressources système, améliorer l'efficacité énergétique et faciliter la maintenance.",
+      "En tant qu'utilisateur, je veux que le portail de statistiques SaaS offre des options de personnalisation de l'interface utilisateur tout en minimisant l'utilisation de scripts et d'éléments graphiques lourds, afin de réduire la charge côté client et d'améliorer la fluidité de l'expérience utilisateur.",
+      "En tant qu'administrateur système, je veux que la solution SaaS propose des mécanismes d'optimisation automatique des ressources serveur en fonction de la demande, pour éviter le gaspillage de ressources inutiles et garantir une utilisation efficace des serveurs.",
+      "En tant qu'utilisateur, je veux que le portail de statistiques SaaS utilise des techniques de compression et de mise en cache pour minimiser le volume des données échangées entre le serveur et le client, réduisant ainsi la consommation de bande passante et améliorant la réactivité de l'application.",
+      "En tant qu'administrateur système, je veux que la solution SaaS propose des rapports périodiques sur l'empreinte environnementale de l'application, y compris la consommation d'énergie, les émissions de gaz à effet de serre et d'autres métriques pertinentes, pour permettre un suivi transparent de l'impact environnemental de l'application.",
+      "En tant qu'utilisateur, je veux que le portail de statistiques SaaS soit conçu de manière modulaire, de sorte que seules les fonctionnalités nécessaires soient activées, minimisant ainsi la consommation de ressources inutiles.",
+      "En tant qu'administrateur système, je veux que la solution SaaS soit compatible avec les normes d'accessibilité Web (WCAG) afin de garantir une utilisation équitable et inclusive pour tous les utilisateurs, tout en maintenant des performances optimales."
+    ]
+  },
+  {
+    "question": "Quels éléments du cours allez-vous utiliser dans votre alternance ?",
+    "cta_text": "voir les éléments",
+    "answer": "Dorénavant, je proposerai à mon équipe des technologies, si possible, minimisant l'empreinte écologique de notre code, allant dans le sens des concepts de sobriété numérique. J'aurai en tête que quand j'optimise mon code, je le fais à la fois pour la performance de l'application mais aussi pour garantir une utilisation efficace de l'énergie. Je ferai aussi bien plus attention à l'accessibilité des applications qui seront et est développées au sein de mon agence, et proposerai des solutions si besoin, afin de garantir une utilisation à tous. Je me renseignerai aussi sur le suivi des performances des projets, et évaluerai leurs impacts environnementaux avec les outils vus en cours, au fil du temps. J'ai aussi déjà parlé avec mon équipe des initiatives durables qui ont été mises en place dans nos projets, afin de savoir ce qui a déjà été fait et ce que l'on pourrait faire, une sorte de sensibilisation."
+  },
+  {
+    "question": "Comment évaluez-vous la maturité de sobriété numérique de votre organisation ?",
+    "cta_text": "voir mon évaluation",
+    "answer": "Mon agence fait très attention a son enpreinte écologique et est fière de ceci. Concernant leur maturité en sobriété numérique, je ne peux donner mon avis que sur mon équipe, s'occupant du développement de solutions digitales destinées au salarié.e.s de l'agence. Nous faisons très attention à l'optimisation de notre code, nous gardons en tête l'impact écologique de nos choix, mais ces choix sont parfois écologiquement mauvais par soucis de sécurité, ou autre... Je pense que l'on pourrait faire mieux, même si c'est déjà vraiment pas mal."
+  },
+  {
+    "question": "Comment imaginez-vous le numérique en 2050 ?",
+    "cta_text": "voir ce que j'imagine...",
+    "answer": [
+      "En 2050, je m'imagine dans un monde numérique profondément transformé, où les avancées technologiques auront remodelé radicalement notre manière d'interagir avec la technologie.",
+      "D'une part, je prévois que les interfaces utilisateur seront encore plus intuitives et immersives, peut-être intégrées à des environnements de réalité augmentée quotidienne. L'expérience utilisateur sera personnalisée de manière plus poussée, anticipant nos besoins et s'adaptant dynamiquement à nos préférences.",
+      "D'autre part, je m'attends à ce que le développement web soit davantage axé sur la durabilité et la sobriété numérique. Les technologies que nous utiliserons en 2050 devront être non seulement performantes, mais également respectueuses de l'environnement.",
+      "En tant que jeune professionnel ayant débuté ma carrière en alternance, je m'efforcerai de rester agile et d'adopter constamment de nouvelles compétences pour suivre le rythme des évolutions technologiques.",
+      "En somme, je m'imagine contribuant à un monde numérique plus inclusif, respectueux de l'environnement et axé sur l'amélioration continue."
+    ]
+  }
+]

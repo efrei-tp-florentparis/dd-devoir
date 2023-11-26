@@ -1,0 +1,7 @@
+.button {
+  display: flex;
+  width: fit-content;
+  border: 1px solid var(--dark-green);
+  border-radius: 30px;
+  padding: var(--space-2) var(--space-4);
+}

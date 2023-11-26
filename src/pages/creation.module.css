@@ -1,0 +1,131 @@
+.first_column {
+  position: relative;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-7);
+  padding: var(--space-4) 0;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.image_container {
+  width: 100%;
+  overflow: hidden;
+  height: 35%;
+  position: absolute;
+  bottom: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+}
+
+.image {
+  height: 100%;
+  aspect-ratio: 1/1;
+}
+
+.bottom_redirection {
+  position: absolute;
+  align-items: center;
+  bottom: 20px;
+  display: flex;
+  gap: var(--space-3);
+  padding-top: var(--space-3);
+  border-top: 2px solid var(--dark-green);
+  width: 100%;
+  text-decoration: none;
+}
+
+.redirect_icon:hover {
+  animation: zoom-in-zoom-out 1.5s ease infinite;
+  cursor: pointer;
+}
+
+.second_column {
+  /* background */
+  background-color: #dda25e33;
+  background-image: linear-gradient(
+      30deg,
+      #ffffff 12%,
+      transparent 12.5%,
+      transparent 87%,
+      #ffffff 87.5%,
+      #ffffff
+    ),
+    linear-gradient(
+      150deg,
+      #ffffff 12%,
+      transparent 12.5%,
+      transparent 87%,
+      #ffffff 87.5%,
+      #ffffff
+    ),
+    linear-gradient(
+      30deg,
+      #ffffff 12%,
+      transparent 12.5%,
+      transparent 87%,
+      #ffffff 87.5%,
+      #ffffff
+    ),
+    linear-gradient(
+      150deg,
+      #ffffff 12%,
+      transparent 12.5%,
+      transparent 87%,
+      #ffffff 87.5%,
+      #ffffff
+    ),
+    linear-gradient(
+      60deg,
+      #ffffff77 25%,
+      transparent 25.5%,
+      transparent 75%,
+      #ffffff77 75%,
+      #ffffff77
+    ),
+    linear-gradient(
+      60deg,
+      #ffffff77 25%,
+      transparent 25.5%,
+      transparent 75%,
+      #ffffff77 75%,
+      #ffffff77
+    );
+  background-size: 62px 109px;
+  background-position: 0 0, 0 0, 31px 54px, 31px 54px, 0 0, 31px 54px;
+
+  /* global */
+  grid-column: 2 span;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-right: -10px;
+  padding: 20px;
+  column-gap: 60px;
+  row-gap: 20px;
+  height: calc(100vh - 40px);
+  overflow: scroll;
+}
+
+.section_text {
+  display: flex;
+  flex-direction: column;
+}
+
+@keyframes zoom-in-zoom-out {
+  0% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}
